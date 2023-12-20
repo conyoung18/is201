@@ -20,16 +20,19 @@ h1 {
 
 .youtubevid {
     position: absolute !important;
-    top: 0px !important;
+    top: 120px !important;
+    left: 400px !important;
     height: 90px !important;
     width: 160px !important;
 }
 
 .dbacks {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
-    color: maroon !important;
+    color: teal !important;
 }
 
 .test {
     font-style: italic;
+    font-family: fantasy;
+    color: maroon;
 }
