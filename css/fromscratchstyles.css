@@ -1,15 +1,3 @@
-h1 {
-    font-family: 'Times New Roman', Times, serif;
-}
-
-.sandybg {
-    background-color: navajowhite !important;
-}
-
-.diffbg {
-    background-color: navy !important;
-}
-
 .diffcolorfont {
     color: navy !important;
 }
@@ -28,8 +16,4 @@ h1 {
 .dbacks {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
     color: maroon !important;
-}
-
-.test {
-    font-style: italic;
 }
